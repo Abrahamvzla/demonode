@@ -1,0 +1,14 @@
+{
+  "name": "practicanode",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Abraham",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
